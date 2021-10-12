@@ -2,7 +2,6 @@
 <h2> Steup and deploy using jenkins </h2>
 <h2> welcome SARATHKUMAR!!!!!! </h2>
 <h2> job publish ssh done!!!!!! </h2>
-<h2> very good SARATHKUMAR!!!!!! </h2>
 
 
 
